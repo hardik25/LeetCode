@@ -45,7 +45,7 @@ List of top LeetCode question to practice. Also using this document to track pro
 - [ ] [Task scheduler](https://leetcode.com/problems/task-scheduler/) (medium)
 - [ ] [Find median from data stream](https://leetcode.com/problems/find-median-from-data-stream/) (hard)
 ## Linked Lists/Deques
-- [ ] [Intersection of two linked lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) (easy)
+- [x] [Intersection of two linked lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) (easy)
 - [ ] [Linked list cycle](https://leetcode.com/problems/linked-list-cycle) (easy)
 - [ ] [Merge two sorted lists](https://leetcode.com/problems/merge-two-sorted-lists) (easy)
 - [ ] [Palindrome linked list](https://leetcode.com/problems/palindrome-linked-list/) (easy)
