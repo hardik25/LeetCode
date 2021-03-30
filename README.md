@@ -48,7 +48,7 @@ List of top LeetCode question to practice. Also using this document to track pro
 - [x] [Intersection of two linked lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) (easy)
 - [x] [Linked list cycle](https://leetcode.com/problems/linked-list-cycle) (easy)
 - [x] [Merge two sorted lists](https://leetcode.com/problems/merge-two-sorted-lists) (easy)
-- [ ] [Palindrome linked list](https://leetcode.com/problems/palindrome-linked-list/) (easy)
+- [x] [Palindrome linked list](https://leetcode.com/problems/palindrome-linked-list/) (easy)
 - [ ] [Remove duplicates from sorted list](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) (easy)
 - [x] [Reverse linked list](https://leetcode.com/problems/reverse-linked-list/) (easy)
 - [ ] [Odd even linked list](https://leetcode.com/problems/odd-even-linked-list/) (medium)
