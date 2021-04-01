@@ -53,7 +53,7 @@ List of top LeetCode question to practice. Also using this document to track pro
 - [x] [Reverse linked list](https://leetcode.com/problems/reverse-linked-list/) (easy)
 - [ ] [Odd even linked list](https://leetcode.com/problems/odd-even-linked-list/) (medium)
 - [ ] [Reverse linked list II](https://leetcode.com/problems/reverse-linked-list-ii/) (medium)
-- [ ] [Rotate list](https://leetcode.com/problems/rotate-list/) (medium)
+- [x] [Rotate list](https://leetcode.com/problems/rotate-list/) (medium)
 - [ ] [Merge k sorted lists](https://leetcode.com/problems/merge-k-sorted-lists/) (hard)
 ## Trees
 - [x] [Balanced binary tree](https://leetcode.com/problems/balanced-binary-tree/) (easy)
