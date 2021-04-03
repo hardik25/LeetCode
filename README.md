@@ -4,7 +4,7 @@ List of top LeetCode question to practice. Also using this document to track pro
 ## Arrays/Strings
 - [ ] [Maximum subarray](https://leetcode.com/problems/maximum-subarray/) (easy)
 - [ ] [Merge sorted array](https://leetcode.com/problems/merge-sorted-array) (easy)
-- [ ] [Reverse string](https://leetcode.com/problems/reverse-string/) (easy)
+- [x] [Reverse string](https://leetcode.com/problems/reverse-string/) (easy)
 - [ ] [3sum](https://leetcode.com/problems/3sum/) (medium)
 - [ ] [Decode string](https://leetcode.com/problems/decode-string/) (medium)
 - [ ] [Find first and last position of element in sorted array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) (medium)
