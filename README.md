@@ -93,7 +93,7 @@ List of top LeetCode question to practice. Also using this document to track pro
 ## Recursion/Backtracking
 - [ ] [Combination Sum](https://leetcode.com/problems/combination-sum/) (medium)
 - [ ] [Decode ways](https://leetcode.com/problems/decode-ways/) (medium)
-- [ ] [Permutations](https://leetcode.com/problems/permutations/) (medium)
+- [x] [Permutations](https://leetcode.com/problems/permutations/) (medium)
 - [ ] [Permutations II (permutations with repetitions)](https://leetcode.com/problems/permutations-ii/) (medium)
 - [ ] [Subsets](https://leetcode.com/problems/subsets/) (medium)
 - [ ] [Interleaving string](https://leetcode.com/problems/interleaving-string/) (hard)
